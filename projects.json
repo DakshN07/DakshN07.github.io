@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "KNRFarm",
+    "description": "Cloud-native Android application managing farm lifecycle, inventory, and financial records. Features real-time Firestore sync with sub-second consistency, RBAC authentication, and predictive workflows that reduced missed events by 95%.",
+    "tech": ["Java", "Android", "Firebase", "Firestore", "RBAC"],
+    "github": "https://github.com/DakshN07",
+    "live": "",
+    "date": "Dec 2025",
+    "featured": true,
+    "category": "Mobile"
+  },
+  {
+    "id": 2,
+    "title": "AI-Powered FAQ Bot",
+    "description": "Intelligent chatbot generating contextual responses using OpenAI APIs. Built with React for a performant, modular frontend architecture.",
+    "tech": ["React", "OpenAI API", "JavaScript"],
+    "github": "https://github.com/DakshN07",
+    "live": "",
+    "date": "Jun 2025",
+    "featured": true,
+    "category": "AI"
+  },
+  {
+    "id": 3,
+    "title": "Blogging App",
+    "description": "Full-stack blogging platform with RESTful APIs, MongoDB persistence, and clean separation of business logic and presentation layers.",
+    "tech": ["Node.js", "Express", "MongoDB", "REST API"],
+    "github": "https://github.com/DakshN07",
+    "live": "",
+    "date": "Nov 2024",
+    "featured": false,
+    "category": "Full Stack"
+  },
+  {
+    "id": 4,
+    "title": "Bluestock Fintech Dashboard",
+    "description": "Real-time financial data pipeline processing reports for 100+ Nifty 100 companies. Includes rule-based ML engine for investment insights (CAGR, ROE), optimized MySQL schema with UPSERT logic, and a React + Redux visualization dashboard.",
+    "tech": ["React.js", "Redux", "MySQL", "REST API", "Python"],
+    "github": "https://github.com/DakshN07",
+    "live": "",
+    "date": "Jan 2026",
+    "featured": true,
+    "category": "Full Stack"
+  }
+]
