@@ -1,74 +1,55 @@
 [
-{
-"id": 1,
-"title": "Agent-FAQ",
-"description": "Python-based multi-agent enterprise knowledge assistant automating customer query resolution and workflow orchestration using LangGraph and OpenAI APIs. Designed a 5-agent architecture handling retrieval, verification, summarization, and autonomous task execution. Implemented RAG with PostgreSQL pgvector and Redis caching, reducing response latency by 85% and support resolution time from 10–15 minutes to under 2 seconds.",
-"tech": [
-"Python",
-"LangGraph",
-"OpenAI API",
-"PostgreSQL",
-"pgvector",
-"Redis",
-"RAG"
-],
-"github": "https://github.com/DakshN07",
-"live": "",
-"date": "Jun 2025",
-"featured": true,
-"category": "AI"
-},
-{
-"id": 2,
-"title": "Fairness Firewall",
-"description": "Enterprise AI bias auditing platform built using LLM APIs and prompt engineering to detect systemic bias in tabular datasets. Implemented schema-agnostic fairness pipelines, Statistical Parity Difference analysis, Four-Fifths Rule enforcement, and AI-powered executive audit reporting with RAG-enabled mitigation workflows.",
-"tech": [
-"Python",
-"LLM APIs",
-"Prompt Engineering",
-"RAG",
-"AI Auditing",
-"Fairness Metrics"
-],
-"github": "https://github.com/DakshN07",
-"live": "",
-"date": "Apr 2026",
-"featured": true,
-"category": "AI"
-},
-{
-"id": 3,
-"title": "KNRFarm",
-"description": "Cloud-native Android livestock management platform managing herd lifecycle, inventory, expenses, and medical records. Implemented real-time Firestore synchronization, RBAC security, predictive pregnancy and vaccination scheduling workflows, and KPI dashboards reducing missed medical events by 95%.",
-"tech": [
-"Java",
-"Android",
-"Firebase",
-"Firestore",
-"RBAC"
-],
-"github": "https://github.com/DakshN07",
-"live": "",
-"date": "Dec 2025",
-"featured": true,
-"category": "Mobile"
-},
-{
-"id": 4,
-"title": "Bluestock Financial Analytics Engine",
-"description": "Real-time financial analytics platform processing reports for 100+ Nifty 100 companies. Built automated investment insight generation including CAGR, ROE, valuation metrics, optimized MySQL schemas with UPSERT logic, and high-frequency financial data processing pipelines.",
-"tech": [
-"Python",
-"MySQL",
-"React",
-"Redux",
-"REST APIs",
-"Financial Analytics"
-],
-"github": "https://github.com/DakshN07",
-"live": "",
-"date": "Jan 2026",
-"featured": true,
-"category": "Full Stack"
-}
+  {
+    "id": 1,
+    "title": "Agent-FAQ",
+    "description": "Multi-agent enterprise assistant automating customer query resolution. Designed a 5-agent architecture handling retrieval, verification, summarisation, and autonomous task execution. Implemented RAG using PostgreSQL pgvector and Redis caching reducing latency by 85%. Integrated Jira, Slack, and GitHub APIs for workflow automation.",
+    "tech": [
+      "Python",
+      "LangGraph",
+      "OpenAI API",
+      "PostgreSQL",
+      "pgvector",
+      "Redis",
+      "RAG"
+    ],
+    "github": "https://github.com/DakshN07/Agent-FAQ",
+    "live": "https://agent-faq.vercel.app",
+    "date": "Jun 2025",
+    "featured": true,
+    "category": "AI"
+  },
+  {
+    "id": 2,
+    "title": "Fairness Firewall",
+    "description": "Enterprise AI bias auditing platform detecting systemic bias in tabular datasets. Implemented schema-agnostic pipelines identifying protected attributes automatically. Engineered Statistical Parity Difference modules enforcing the Four-Fifths Rule. Generated AI-powered executive audit reports recommending mitigation workflows.",
+    "tech": [
+      "Python",
+      "LLM APIs",
+      "Prompt Engineering",
+      "RAG",
+      "AI Auditing"
+    ],
+    "github": "https://github.com/DakshN07/Fairness-Firewal",
+    "live": "https://fairness-firewal.vercel.app",
+    "date": "Apr 2026",
+    "featured": true,
+    "category": "AI"
+  },
+  {
+    "id": 3,
+    "title": "KNRFarm",
+    "description": "Cloud-native Android system managing herd lifecycle, inventory, and medical records. Implemented real-time Firestore synchronization achieving sub-second consistency. Integrated RBAC security layers protecting sensitive records. Built predictive pregnancy and vaccination scheduling workflows reducing missed events by 95%.",
+    "tech": [
+      "Java",
+      "Android",
+      "Firebase",
+      "Firestore",
+      "RBAC"
+    ],
+    "github": "https://github.com/DakshN07/knrfarm",
+    "live": "",
+    "date": "Dec 2025",
+    "featured": true,
+    "category": "Mobile"
+  }
 ]
